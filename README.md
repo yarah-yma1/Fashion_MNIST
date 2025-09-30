@@ -1,5 +1,6 @@
 # Fashion_MNIST_Dataset_Example
 This project demonstrates image classification using the Fashion-MNIST dataset with TensorFlow + Keras. Fashion MNIST resembles the classic MNIST dataset, but instead of handwritten digits, it contains images of clothing items (10 categories, such as T-shirt, trousers, shoes, and bags).
+
 The goal of this project is to showcase how convolutional neural networks (CNNs) can classify grayscale images into fashion categories. The code is implemented in two styles: a regular procedural version and an object-oriented (OOP) version for better modularity.
 
 # Table Of Contents
@@ -11,8 +12,11 @@ The goal of this project is to showcase how convolutional neural networks (CNNs)
 
 # Implementation
 Dataset: Fashion MNIST - 70,000 grayscale images, 28x28 pixels, 10 classes
+
 Model: CNN - Multiple convolutional networks and layers
+
 Training: 10 Epochs, Adam optimizer, 0.33 validation split
+
 The OOP code separates data loading, preprocessing, model architechture, training, and prediction into different classes. 
 
 # Requirments 
