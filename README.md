@@ -7,7 +7,7 @@
 ## How to Run
 - In order to run this code, you must activate a Python environment installed on your computer and activated. You can download "FASHION.py" into a folder, and open the folder within VSCode.
 - The Fashion_MNIST dataset is automatically downloaded and loaded in the script, so no external dataset installations are required.
-=======
+
 # Fashion_MNIST_Dataset_Example
 This project demonstrates image classification using the Fashion-MNIST dataset with TensorFlow + Keras. Fashion MNIST resembles the classic MNIST dataset, but instead of handwritten digits, it contains images of clothing items (10 categories, such as T-shirt, trousers, shoes, and bags).
 
@@ -49,3 +49,4 @@ This project does not have any error handling.
 
 # References 
 - [1]GeeksforGeeks, “MNIST Dataset : Practical Applications Using Keras and PyTorch,” GeeksforGeeks, May 2024. https://www.geeksforgeeks.org/machine-learning/mnist-dataset/
+
