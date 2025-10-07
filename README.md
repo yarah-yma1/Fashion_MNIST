@@ -3,7 +3,7 @@
 
 # Table Of Contents
 - [Implementation](#implementation)
-- [Requirements](#requirments)
+- [Requirements](#requirements)
 - [How to Use](#how-to-use)
 - [References](#references)
 
@@ -41,5 +41,6 @@ from keras.datasets import fashion_mnist
 
 # References 
 - [1]GeeksforGeeks, “Fashion MNIST with Python Keras and Deep Learning,” GeeksforGeeks, Jun. 2022. https://www.geeksforgeeks.org/deep-learning/fashion-mnist-with-python-keras-and-deep-learning/
+
 
 
