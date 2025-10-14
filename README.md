@@ -1,6 +1,6 @@
 
 # Fashion_MNIST Data Set
-- This project demonstrates the Keras deep learning library that helps create an artificial neural network built on Tensorflow.
+This project demonstrates the Keras deep learning library that helps create an artificial neural network built on Tensorflow.
 # Table Of Contents
 - [Implementation](#implementation)
 - [Requirements](#requirments)
@@ -19,10 +19,10 @@ tensorflow==2.20.0
 keras==3.11.3
 ```
 # How to Use
-- In order to run this code, you must activate a Python environment installed on your computer and activated. You can download "FASHION.py" into a folder, and open the folder within VSCode.
-- The Fashion_MNIST dataset is automatically downloaded and loaded in the script, so no external dataset installations are required.
+In order to run this code, you must activate a Python environment installed on your computer and activated. You can download "FASHION.py" into a folder, and open the folder within VSCode.
+The Fashion_MNIST dataset is automatically downloaded and loaded in the script, so no external dataset installations are required.
 # Error Handling 
 This project does not have any error handling.
 # References 
-- [1]GeeksforGeeks, “Fashion MNIST with Python Keras and Deep Learning,” GeeksforGeeks, Jun. 2022. https://www.geeksforgeeks.org/deep-learning/fashion-mnist-with-python-keras-and-deep-learning/
+[1]GeeksforGeeks, “Fashion MNIST with Python Keras and Deep Learning,” GeeksforGeeks, Jun. 2022. https://www.geeksforgeeks.org/deep-learning/fashion-mnist-with-python-keras-and-deep-learning/
 ‌
